@@ -1,0 +1,6 @@
+Here is a list of what we have to do :
+--------------------------------------
+
+    + Add a license
+    + Make the documentation
+    + and a lot more !!!
