@@ -1,6 +1,15 @@
 Here is a list of what we have to do :
 --------------------------------------
 
-    + Add a license
+    + Choose and add a license
     + Make the documentation
+    + Make the architecture
     + and a lot more !!!
+
+Things we have to keep in mind :
+--------------------------------
+
+    + Develop the game for Windows in the first place, but don't forget that we
+      will port it to Linux and MacOS later
+    + Make the game modular in order to make the game cross-platform
+    + For the libraries, keep in mind cross-platform
