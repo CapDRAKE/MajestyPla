@@ -1,0 +1,8 @@
+Here is a brainstorming of what we can include in the game: (feel free to add anything)
+-----------------------------------------------------------
+
+    + Allow to put different fuels in the car (like "cristaline de Reims" for
+      example) and the modes CPT and CPAPT
+    + Allow to have a sportive multipla
+    + Add the 50's multipla as an easter egg
+    
