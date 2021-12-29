@@ -6,6 +6,8 @@ Here is a list of what we have to do :
     + Make the documentation
     + Make the architecture
     + and a lot more !!!
+    ? Use unity?
+    ? C#/C++/C/JAVA ?
 
 Things we have to keep in mind :
 --------------------------------
