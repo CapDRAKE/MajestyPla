@@ -9,9 +9,9 @@ Here is a brainstorming of what we can include in the game: (feel free to add an
     Differents Gear boxes
     Differents Engines
     FWD & AWD & RWD versions
-    Race clutch
+    Race clutch or Road clutch
     
     Allow parts to be removed to lighten the car
     
-    Remove tires
-    bycicle wheels
+    Allow to Remove tires
+    Allow to put bycicle wheels
