@@ -6,14 +6,22 @@ Here is a brainstorming of what we can include in the game: (feel free to add an
     + Allow to have a sportive multipla
     + Add the 50's multipla as an easter egg
     
-    Differents Gear boxes
-    Differents Engines
-    FWD & AWD & RWD versions
-    Race clutch or Road clutch
+    + Differents Gear boxes
+    + Differents Engines (also like steam engine, electric, stirling, turbine,
+      whatever...)
+    + FWD & AWD & RWD versions
+    + Race clutch or Road clutch
     
-    Allow parts to be removed to lighten the car
+    + Allow parts to be removed to lighten the car
     
-    Allow to Remove tires
-    Allow to put bycicle wheels
-    Allow to remove Exhausts to make NOIIISE
+    + Allow to remove tires
+    + Allow to fill tires with anything: air, water, concret...
+    + Allow to replace tires with springs, elastic bands, buoy, swim ring,
+      whatever that is torus-shaped...
+    + Allow to put bicycle wheels
+    + Allow to put tractor wheels
+    + Allow to put train wheels
+    + Allow to remove exhausts to make NOIIISE
+
+    + Make an amphibian or boat version
     
