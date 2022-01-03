@@ -14,3 +14,4 @@ Here is a brainstorming of what we can include in the game: (feel free to add an
     Allow parts to be removed to lighten the car
     
     Remove tires
+    bycicle wheels
