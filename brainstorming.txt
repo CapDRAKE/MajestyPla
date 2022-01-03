@@ -15,3 +15,5 @@ Here is a brainstorming of what we can include in the game: (feel free to add an
     
     Allow to Remove tires
     Allow to put bycicle wheels
+    Allow to remove Exhausts to make NOIIISE
+    
