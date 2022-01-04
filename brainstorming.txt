@@ -24,6 +24,7 @@ Here is a brainstorming of what we can include in the game: (feel free to add an
     + Allow to remove exhausts to make NOIIISE
 
     + Make an amphibian or boat version
+    + Make an hovercraft version (so it is a sanderou now)
     
     + Allow to put a 25 Gears GearBox... Because why not?
     + Allow to put a 200 Km/h Rear Gear.
