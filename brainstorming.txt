@@ -25,3 +25,4 @@ Here is a brainstorming of what we can include in the game: (feel free to add an
 
     + Make an amphibian or boat version
     
+    + Allow to put a 25 Gears GearBox... Because why not?
