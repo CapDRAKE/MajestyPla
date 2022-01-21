@@ -1,8 +1,6 @@
 Here is a list of what we have to do :
 --------------------------------------
 
-    + Choose and add a license
-      (Aurélien suggest the GPLv3 a popular free (as in freedom) license)
     + Make the documentation
     + Make the architecture
     + and a lot more !!!
