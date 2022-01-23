@@ -33,6 +33,6 @@ If you wish to participate in the development of this project, please contact Ca
 
 ## 📝 License
 
-Soon...
+GNU General Public License version 3: this is free software
 
 ---
